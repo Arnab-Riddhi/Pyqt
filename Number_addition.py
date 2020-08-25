@@ -60,7 +60,7 @@ class Ui_Dialog(object):
         self.label.setText(_translate("Dialog", "Enter First number :"))
         self.label_2.setText(_translate("Dialog", "Enter Second number :"))
         self.pushButton.setText(_translate("Dialog", "Add"))
-        self.label_3.setText(_translate("Dialog", "Enter First number :"))
+        self.label_3.setText(_translate("Dialog", "Result will show here."))
 
 
 if __name__ == "__main__":
